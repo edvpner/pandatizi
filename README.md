@@ -103,3 +103,13 @@ PandaVPN缺点
 PandaVPN虽然成立时间不久，相比于其他VPN服务商来说知名度不够，但在中国翻墙非常好用，甚至为iOS用于提供了苹果账号。
 
 另外中文支持非常友好，从购买到安装，你基本不会遇到任何问题。服务器众多，即便特殊时期挂掉几个节点，也有备用节点可用。
+
+## 其他好用的PC梯子
+
+|  PC梯子   | 特点  |
+|  ----  | ----  |
+| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitedvpner&aff_click_id=pandatizi) | 顶级VPN品牌之一 |
+| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitedvpner&data2=pandatizi) | 网速一流的VPN |
+| [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitedvpner&data1=pandatizi) | 顶级品牌（需翻墙后购买）|
+| [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） |
+| [StrongVPN](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitedvpner&data2=pandatizi) | 10月份不稳定，正在恢复中 |
